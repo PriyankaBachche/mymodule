@@ -1,0 +1,58 @@
+{
+  "category": [
+    {
+      "CreatedAt": "2023-06-25T12:05:22.335Z",
+      "category": "men clothing",
+      "description": "565",
+      "id": 2
+    },
+    {
+      "CreatedAt": "2023-06-24T12:26:35.155Z",
+      "category": "toys",
+      "description": "35",
+      "id": 3
+    },
+    {
+      "CreatedAt": "2023-06-25T12:05:33.566Z",
+      "category": "men clothing....",
+      "description": "56",
+      "id": 4
+    },
+    {
+      "CreatedAt": "2023-06-24T12:27:52.027Z",
+      "category": "men clothin",
+      "description": "565",
+      "id": 5
+    },
+    {
+      "CreatedAt": "2023-06-24T12:31:09.707Z",
+      "category": "men cloth",
+      "description": "56",
+      "id": 6
+    },
+    {
+      "CreatedAt": "2023-06-24T12:39:07.756Z",
+      "category": "himalaya baby shampoo",
+      "description": "baby",
+      "id": 7
+    },
+    {
+      "CreatedAt": "2023-06-23T11:11:58.837Z",
+      "category": "shampoo",
+      "description": "baby shampoo",
+      "id": 10
+    },
+    {
+      "CreatedAt": "2023-06-23T11:11:58.837Z",
+      "category": "shampo",
+      "description": "baby shampoo",
+      "id": 25
+    },
+    {
+      "CreatedAt": "2023-06-25T12:01:56.031Z",
+      "category": "toys",
+      "description": "ball",
+      "id": 26
+    }
+  ]
+}
